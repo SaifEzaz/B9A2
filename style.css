@@ -248,7 +248,7 @@ nav span{
 .newsimg{
     height: 422px;
     border-radius: 16px;
-    background: url('images/newsimg.png'), lightgray 50%;
+    background: url('Images/newsimg.png'), lightgray 50%;
     background-repeat: no-repeat;
     width: 600px;
     height: 360px;
